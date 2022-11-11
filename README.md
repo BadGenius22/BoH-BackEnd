@@ -32,7 +32,7 @@
     <a href="https://github.com/BadGenius22/BoH-BackEnd"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BadGenius22/BoH-BackEnd">View Demo</a>
+    <a href="https://battleheroes.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/BadGenius22/BoH-BackEnd/issues">Report Bug</a>
     ·
@@ -109,7 +109,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Getting Started
 
-Go to ... to try play the game.
+Go to https://battleheroes.netlify.app/ to try play the game.
 
 ### Prerequisites
 
