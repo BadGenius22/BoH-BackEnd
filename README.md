@@ -70,19 +70,19 @@
 Homepage
 
   <a href="https://github.com/BadGenius22/BoH-FrontEnd">
-    <img src="https://github.com/BadGenius22/BoH-FrontEnd/blob/main/screenshot/homepage.png" alt="Home" width="1080" height="500">
+    <img src="https://github.com/BadGenius22/BoH-FrontEnd/blob/main/screenshot/homepage.png" alt="Home" width="900" height="500">
   </a>
   
  Battleground
 
   <a href="https://github.com/BadGenius22/BoH-FrontEnd">
-    <img src="https://github.com/BadGenius22/BoH-FrontEnd/blob/main/screenshot/battleground.png" alt="Home" width="1080" height="500">
+    <img src="https://github.com/BadGenius22/BoH-FrontEnd/blob/main/screenshot/battleground.png" alt="Home" width="900" height="500">
   </a>
  
   Arena
 
   <a href="https://github.com/BadGenius22/BoH-FrontEnd">
-    <img src="https://github.com/BadGenius22/BoH-FrontEnd/blob/main/screenshot/arena.png" alt="Home" width="1080" height="500">
+    <img src="https://github.com/BadGenius22/BoH-FrontEnd/blob/main/screenshot/Arena.png" alt="Home" width="900" height="500">
   </a>
 
 This game is made for Chainlink Hackathon Fall 2022. Implements Chainlink VRFV2 & Chainlink Automation to generate rundom numbers Attack & Defend strength of the battle card. Thanks to those Chainlink technology, make the game untamperable in random numbers generated in a decentralized way, creating fair RNG for players.
