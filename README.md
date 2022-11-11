@@ -27,7 +27,7 @@
   <h3 align="center">Best-README-Template</h3>
 
   <p align="center">
-    An Ultimate Web3 Battle Card Game.
+    An Ultimate Web3 NFT Battle Card Game.
     <br />
     <a href="https://github.com/BadGenius22/BoH-BackEnd"><strong>Explore the docs »</strong></a>
     <br />
