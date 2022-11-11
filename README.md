@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/BadGenius22/BoH-FrontEnd">
+  <a href="https://github.com/BadGenius22/BoH-BackEnd">
     <img src="https://github.com/BadGenius22/BoH-FrontEnd/blob/main/src/assets/logo.svg" alt="Logo" width="502" height="295">
   </a>
 
@@ -29,14 +29,14 @@
   <p align="center">
     An Ultimate Web3 Battle Card Game.
     <br />
-    <a href="https://github.com/BadGenius22/BoH-FrontEnd"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BadGenius22/BoH-BackEnd"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BadGenius22/BoH-FrontEnd">View Demo</a>
+    <a href="https://github.com/BadGenius22/BoH-BackEnd">View Demo</a>
     ·
-    <a href="https://github.com/BadGenius22/BoH-FrontEnd/issues">Report Bug</a>
+    <a href="https://github.com/BadGenius22/BoH-BackEnd/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BadGenius22/BoH-FrontEnd/issues">Request Feature</a>
+    <a href="https://github.com/BadGenius22/BoH-BackEnd/issues">Request Feature</a>
   </p>
 </div>
 
@@ -239,12 +239,12 @@ Useful resources & tutorials I find helpful.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[lastcommit]: https://img.shields.io/github/last-commit/BadGenius22/BoH-FrontEnd?logo=GitHub&style=for-the-badge
-[lastcommit-url]: https://github.com/BadGenius22/BoH-FrontEnd
-[codesize]: https://img.shields.io/github/languages/code-size/BadGenius22/BoH-FrontEnd?logo=Github&style=for-the-badge
-[codesize-url]: https://github.com/BadGenius22/BoH-FrontEnd
-[issues-shield]: https://img.shields.io/github/issues/BadGenius22/BoH-FrontEnd?logo=GitHub&style=for-the-badge
-[issues-url]: https://github.com/BadGenius22/BoH-FrontEnd/issues
+[lastcommit]: https://img.shields.io/github/last-commit/BadGenius22/BoH-BackEnd?logo=GitHub&style=for-the-badge
+[lastcommit-url]: https://github.com/BadGenius22/BoH-BackEnd
+[codesize]: https://img.shields.io/github/languages/code-size/BadGenius22/BoH-BackEnd?logo=Github&style=for-the-badge
+[codesize-url]: https://github.com/BadGenius22/BoH-BackEnd
+[issues-shield]: https://img.shields.io/github/issues/BadGenius22/BoH-BackEnd?logo=GitHub&style=for-the-badge
+[issues-url]: https://github.com/BadGenius22/BoH-BackEnd/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
