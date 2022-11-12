@@ -102,6 +102,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [![Chainlink][chainlink]][chainlink-url]
 - [![OpenZeppelin][openzeppelin]][openzeppelin-url]
 - [![Polygon][polygon]][polygon-url]
+- <a href="https://www.quicknode.com/">Quicknode</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
