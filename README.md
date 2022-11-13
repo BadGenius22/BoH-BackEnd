@@ -91,7 +91,7 @@ This game is made for Chainlink Hackathon Fall 2022. Implements Chainlink VRFV2 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project built using:
 
 - [![Next][next.js]][next-url]
 - [![React][react.js]][react-url]
