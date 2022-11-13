@@ -121,6 +121,8 @@ Before you can play the game you must:
 - Add Polygon Mumbai Testnet into your Metamask Wallet.
   https://medium.com/stakingbits/how-to-connect-polygon-mumbai-testnet-to-metamask-fc3487a3871f
 - Get MATIC Token(for Gas fee) for free here: https://faucet.polygon.technology/
+- Register Player (only once time)
+- Create Battle or Join Battle
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
