@@ -37,7 +37,7 @@
     <a href="https://github.com/BadGenius22/BoH-BackEnd/issues">Report Bug</a>
     ·
     <a href="https://github.com/BadGenius22/BoH-BackEnd/issues">Request Feature</a>
-    .
+    ·
     <a href="https://www.youtube.com/watch?v=M_KMpoS3Tqc&ts/">YouTube</a>
   </p>
 </div>
